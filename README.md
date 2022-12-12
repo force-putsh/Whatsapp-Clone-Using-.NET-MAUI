@@ -1,1 +1,1 @@
-# Whatsapp Clone with .NET MAUI
+# Whatsapp Clone using .NET MAUI
